@@ -62,22 +62,22 @@ product owner enhances requirements
 Scrum Master facilitates agile processes
 
 ## UI Component Patterns
-# Planned Components
+Planned Components
 
-# Navbar
+Navbar
 Logo
 Search bar
 User navigation
 Responsive menu
 
-# Property Card
+Property Card
 
 Property image
 Basic details (price, location, rating)
 Favorite button
 Responsive layout
 
-# Footer
+Footer
 
 Site links
 Company information
