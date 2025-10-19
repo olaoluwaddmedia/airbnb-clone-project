@@ -36,4 +36,34 @@ Identifying the design properties of a mockup — such as color styles, typograp
 
 Documenting these properties ensures that both designers and developers share a common visual language, helping to maintain brand alignment, reduce errors, and streamline implementation.
 
+## Project Roles and Responsibilities
+Roles and Responsibilities
+Define team structure and responsibilities
+Document each role’s contribution to the project
+
+## Project Roles and Responsibilities
+# Role	                          Responsibilities
+Project Manager	                Oversees timeline, coordinates team, manages deliverables
+Frontend Developers	            Implements UI components, ensures responsive design
+Backend Developers	            Builds APIs, manages database, implements business logic
+                                Designers	Creates mockups, maintains design system, ensures UX quality
+QA/Testers	                    Writes test cases, performs testing, reports bugs
+DevOps Engineers	              Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner	                  Defines requirements, prioritizes features, represents stakeholders
+Scrum Master	                  Facilitates agile processes, removes blockers, organizes meetings
+
+## key responsibilities and how they contribute to the project’s success
+Project Manager will enhance a well coordinated project work
+Front end developer will ensure a responsive project work
+Bankend developer will ensure a well organised database system for the project
+QA/Testers will perform and checklist bugs
+DevOps Engineers ensures deployment of CI/CD pipelines
+product owner enhances requirements 
+Scrum Master facilitates agile processes
+
+
+
+
+
+
 
