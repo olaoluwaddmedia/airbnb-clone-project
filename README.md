@@ -16,4 +16,24 @@ Prioritize mobile responsiveness
 ## Importance of User-Friendly Design
 An intuitive booking experience reduces friction throughout the user journey, leading to higher engagement and improved conversion rates. Prioritizing clean layouts, straightforward navigation, and responsive design ensures users can easily find and book properties with confidence.
 
+## Figma Design Specifications
+
+### 🎨 Color Styles
+- **Primary:** `#FF5A5F`
+- **Secondary:** `#008489`
+- **Background:** `#FFFFFF`
+- **Text:** `#222222`
+- **Secondary Text:** `#717171`
+
+### 🖋 Typography
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px–32px  
+- **Secondary Text:** Circular, Book (400), 14px
+
+## Importance of Identifying Design Properties in a Mockup
+
+Identifying the design properties of a mockup — such as color styles, typography, spacing, and layout — is essential for maintaining consistency, accuracy, and efficiency throughout the design-to-development process. 
+
+Documenting these properties ensures that both designers and developers share a common visual language, helping to maintain brand alignment, reduce errors, and streamline implementation.
+
 
